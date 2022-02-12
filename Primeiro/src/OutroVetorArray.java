@@ -3,8 +3,7 @@ public class OutroVetorArray {
 
 	public static void main(String[] args) {
 		int num[] = new int[6];
-		int soma;
-		soma = 0;
+		int soma = 0;
 
 		/*
 		 * for (int cont = 0; cont < 6; cont++) { soma += num[cont];
