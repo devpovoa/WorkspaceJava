@@ -1,4 +1,3 @@
-import java.util.Iterator;
 
 import javax.swing.JOptionPane;
 
@@ -30,10 +29,10 @@ public class MediaAlunosMatriz {
 				medProvas[j] = soma / NALUNOS;
 			}
 			for (int i = 0; i < NALUNOS; i++) {
-				JOptionPane.showInternalMessageDialog(null, "Média do Aluno-- " + i + ":" + medAlunos[i]);
+				JOptionPane.showInternalMessageDialog(null, "Média do Aluno-- " + i + ": " + medAlunos[i]);
 			}
 			for (int i = 0; i < NPROVAS; i++) {
-				JOptionPane.showInternalMessageDialog(null, "Média da Prova-- " + i + ":" + medProvas[i]);
+				JOptionPane.showInternalMessageDialog(null, "Média da Prova-- " + i + ": " + medProvas[i]);
 			}
 		} catch (Exception e) {
 			JOptionPane.showInternalMessageDialog(null, "Ocorrência de erro na letitura!.");
