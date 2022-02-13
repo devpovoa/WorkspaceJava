@@ -15,7 +15,7 @@ public class MediaAlunosMatriz {
 			for (int i = 0; i < NALUNOS; i++) {
 				soma = 0f;
 				for (int j = 0; j < NPROVAS; j++) {
-					num = JOptionPane.showInputDialog(null, "Entre nota Aluno-" + i + " Prova-" + j);
+					num = JOptionPane.showInputDialog(null, "Entre nota Aluno- " + i + " Prova- " + j);
 					notaProva[i][j] = Float.parseFloat(num);
 					soma += notaProva[i][j];
 				}
