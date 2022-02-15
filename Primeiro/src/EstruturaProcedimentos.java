@@ -1,6 +1,7 @@
+//Procedimentos que envolve o cálculo matemático e suas operações.
 import javax.swing.JOptionPane;
 
-public class EstruturaDados {
+public class EstruturaProcedimentos {
 	public static void main(String[] args) {
 		int opcao;
 		opcao = Integer.parseInt(JOptionPane.showInputDialog(null,
