@@ -1,6 +1,6 @@
 import java.io.*;
 import javax.swing.JOptionPane;
-
+//Classe que insere dados na tabela cliente de forma sequencial.
 public class ClienteCadastro {
 
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.io.*;
 import javax.swing.JOptionPane;
-
+//Classe que consulta e excluí dados da tabela cliente sequencial.
 public class ClienteConsultaExclusao {
 	static StringBuffer memoria = new StringBuffer();
 	static String arquivo = EscolherArquivo.caminho();

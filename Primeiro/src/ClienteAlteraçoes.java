@@ -1,6 +1,6 @@
 import java.io.*;
 import javax.swing.JOptionPane;
-
+//Classe que consulta e altera os dados da tabela cliente sequencial.
 public class ClienteAlteraçoes {
 	static StringBuffer memoria = new StringBuffer();
 	static String arquivo = EscolherArquivo.caminho();
