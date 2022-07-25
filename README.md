@@ -11,4 +11,5 @@
 
 #### 1.Primeiro:pushpin: 
 <p>:white_check_mark:Lista os códigos trabalhados com lógica de 
-programação, Estruturas de Dados e POO.<p/>
+programação, Estruturas de Dados, Programação Funcional, Programação Orientada a Objetos (POO) e Testes Unitários com JUnit.<p/>
+
