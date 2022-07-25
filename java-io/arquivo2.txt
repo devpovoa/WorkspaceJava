@@ -1,0 +1,3 @@
+Este novo método chama um arquivo do tipo .txt e armazena esta string
+
+by DevPovoa
