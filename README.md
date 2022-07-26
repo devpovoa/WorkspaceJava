@@ -9,7 +9,16 @@
 # Sumário :bookmark_tabs:
 ### Códigos em Java :coffee: 
 
-#### 1.Primeiro:pushpin: 
+#### Descrição:pushpin: 
+
+<p>:white_check_mark:Java 8 (Reference Method, Lambda, Default Method</p>
+
 <p>:white_check_mark:Lista os códigos trabalhados com lógica de 
-programação, Estruturas de Dados, Programação Funcional, Programação Orientada a Objetos (POO) e Testes Unitários com JUnit.<p/>
+programação e Estruturas de Dados<p/>
+
+ <p>:white_check_mark:Programação Orientada a Objetos (POO)</p>
+
+<p>:white_check_mark:Java IO</p>
+
+<p>:white_check_mark:Testes automatizados com JUnit</p>
 

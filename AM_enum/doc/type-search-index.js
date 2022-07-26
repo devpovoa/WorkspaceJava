@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.alura.main","l":"Prioridade"},{"p":"br.com.alura.main","l":"TestaPrioridade"},{"p":"br.com.alura.main","l":"Teste"}];updateSearchResults();
